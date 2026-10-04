@@ -34,8 +34,8 @@ python src/modelagem_previsao_trafego.py --entrada dados/base_consolidada.parque
 
 ## Dados
 
-Os dados brutos não são distribuídos neste repositório. O código público não contém credenciais, endereços internos, caminhos pessoais ou dados institucionais.
+Os dados brutos não são distribuídos neste repositório.
 
 ## Observação de reprodutibilidade
 
-A reprodução numérica integral depende da mesma base utilizada no estudo, do calendário de feriados e das variáveis territoriais descritas no TCC. O script inicializa de forma neutra as colunas de calendário especial ausentes, mas a reprodução do estudo exige fornecer essas colunas na base.
+A reprodução numérica integral depende da mesma base utilizada no estudo, do calendário de feriados e das variáveis territoriais descritas no TCC.
